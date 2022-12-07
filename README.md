@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sébastien</h1>
 <h3 align="center">A passionate freelance web developer 🐍</h3>
 
-- 🔭 I’m currently working on [La communauté de l'inclusion](https://github.com/betagouv/itou-communaute-django)
+- 🔭 I’m currently working on [Conseil National de la Refondation (CNR)](https://github.com/betagouv/CNR)
 
-- 👯 I’m recently worked on [La plateforme de l'inclusion](https://github.com/betagouv/itou-communaute-django)
+- 👯 I’m recently worked on [La communauté de l'inclusion](https://github.com/betagouv/itou-communaute-django)
 
 - 👨‍💻 I developed a project called "Vélhost" [https://python-by.velhost.fr/](https://python-by.velhost.fr/)
 
