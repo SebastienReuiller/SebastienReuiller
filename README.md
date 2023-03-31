@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sébastien</h1>
 <h3 align="center">A passionate freelance web developer 🐍</h3>
 
-- 🔭 I’m currently working on [Conseil National de la Refondation (CNR)](https://github.com/betagouv/CNR)
+- 🔭 I’m currently working for community [beta.gouv.fr](https://beta.gouv.fr/) on these projects : [Content Manager](https://github.com/betagouv/content-manager), [Site Web du GIP de l'inclusion](https://github.com/gip-inclusion/gip-inclusion-website/), [Conseil National de la Refondation (CNR) website](https://github.com/betagouv/CNR), [Conseil National de la Refondation (CNR) web application](https://github.com/betagouv/CNR_Orga) 
 
-- 👯 I’m recently worked on [La communauté de l'inclusion](https://github.com/betagouv/itou-communaute-django)
+- 👯 I’m recently worked on [La communauté de l'inclusion](https://github.com/betagouv/itou-communaute-django),  [Les emplois de l'inclusion](https://github.com/betagouv/itou)
 
 - 👨‍💻 I developed a project called "Vélhost" [https://python-by.velhost.fr/](https://python-by.velhost.fr/)
 
 - 📝 I sometimes write for Linux Magazine [https://connect.ed-diamond.com/auteur/reuiller-sebastien](https://connect.ed-diamond.com/auteur/reuiller-sebastien)
 
-- 🌱 I sometimes give training **Python,Docker, Git**
+- 🌱 I sometimes give training **Python, Docker, Git**
 
 - 💬 Ask me about **Python Django Docker Gitlab**
 
