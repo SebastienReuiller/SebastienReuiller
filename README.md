@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sébastien</h1>
 <h3 align="center">A passionate freelance web developer 🐍</h3>
 
-- 🔭 I’m currently working for community [beta.gouv.fr](https://beta.gouv.fr/) on these projects : [Le marché de l'inclusion](https://github.com/betagouv/itou-marche), [Content Manager](https://github.com/betagouv/content-manager), [Site Web du GIP de l'inclusion](https://github.com/gip-inclusion/gip-inclusion-website/), [Conseil National de la Refondation (CNR) website](https://github.com/betagouv/CNR), [Conseil National de la Refondation (CNR) web application](https://github.com/betagouv/CNR_Orga) 
+- 🔭 I’m currently working for community [beta.gouv.fr](https://beta.gouv.fr/) on these projects : [Le marché de l'inclusion](https://github.com/betagouv/itou-marche), [Site Web du GIP de l'inclusion](https://github.com/gip-inclusion/gip-inclusion-website/) 
 
-- 👯 I’m recently worked on [La communauté de l'inclusion](https://github.com/betagouv/itou-communaute-django),  [Les emplois de l'inclusion](https://github.com/betagouv/itou)
+- 👯 I’m recently worked on [sites-faciles](https://github.com/numerique-gouv/sites-faciles), [Conseil National de la Refondation (CNR) website](https://github.com/betagouv/CNR), [Conseil National de la Refondation (CNR) web application](https://github.com/betagouv/CNR_Orga), [La communauté de l'inclusion](https://github.com/betagouv/itou-communaute-django), [Les emplois de l'inclusion](https://github.com/betagouv/itou)
 
 - 👨‍💻 I developed a project called "Vélhost" [https://python-by.velhost.fr/](https://python-by.velhost.fr/)
 
@@ -25,7 +25,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sreuiller" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sreuiller" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sebastienreuiller" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastienreuiller" height="30" width="40" /></a>
 <a href="https://discord.gg/Sébastien#5502" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sébastien#5502" height="30" width="40" /></a>
 </p>
