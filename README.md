@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sébastien</h1>
 <h3 align="center">A passionate freelance web developer 🐍</h3>
 
-- 🔭 I’m currently working for community [beta.gouv.fr](https://beta.gouv.fr/) on these projects : [Le marché de l'inclusion](https://github.com/betagouv/itou-marche), [Campus du numérique public](https://github.com/betagouv/campus-numerique-cms), [Site Web du GIP de l'inclusion](https://github.com/gip-inclusion/gip-inclusion-website/) 
+- 🔭 I’m currently working for community [beta.gouv.fr](https://beta.gouv.fr/) on this project : [Aidants Connect](https://github.com/betagouv/Aidants_Connect)
 
-- 👯 I’m recently worked on [sites-faciles](https://github.com/numerique-gouv/sites-faciles), [Conseil National de la Refondation (CNR) website](https://github.com/betagouv/CNR), [Conseil National de la Refondation (CNR) web application](https://github.com/betagouv/CNR_Orga), [La communauté de l'inclusion](https://github.com/betagouv/itou-communaute-django), [Les emplois de l'inclusion](https://github.com/betagouv/itou)
-
-- 👨‍💻 I developed a project called "Vélhost" [https://python-by.velhost.fr/](https://python-by.velhost.fr/)
+- 👯 I’m recently worked on [Le marché de l'inclusion](https://github.com/betagouv/itou-marche), [Campus du numérique public](https://github.com/betagouv/campus-numerique-cms), [Site Web du GIP de l'inclusion](https://github.com/gip-inclusion/gip-inclusion-website/), [sites-faciles](https://github.com/numerique-gouv/sites-faciles), [Conseil National de la Refondation (CNR) website](https://github.com/betagouv/CNR), [Conseil National de la Refondation (CNR) web application](https://github.com/betagouv/CNR_Orga), [La communauté de l'inclusion](https://github.com/betagouv/itou-communaute-django), [Les emplois de l'inclusion](https://github.com/betagouv/itou)
 
 - 📝 I sometimes write for Linux Magazine [https://connect.ed-diamond.com/auteur/reuiller-sebastien](https://connect.ed-diamond.com/auteur/reuiller-sebastien)
 
